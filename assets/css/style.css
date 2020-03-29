@@ -6,6 +6,7 @@
 body {
     /*background-color: #00BFFF;*/
     background-image: url('assets/css/ta.jpg');
+    position: absolute;
 }
 
 header a {
